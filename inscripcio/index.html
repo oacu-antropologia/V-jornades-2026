@@ -1,6 +1,48 @@
 <!DOCTYPE html><html lang="en-gb"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no"><title>Inscripció - V Jornades OACU</title><meta name="robots" content="noindex,nofollow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="alternate" type="application/atom+xml" href="https://bcn2026.observatoriconflicteurba.org/feed.xml" title="V Jornades OACU - RSS"><link rel="alternate" type="application/json" href="https://bcn2026.observatoriconflicteurba.org/feed.json" title="V Jornades OACU - JSON"><meta property="og:title" content="Inscripció"><meta property="og:image" content="https://bcn2026.observatoriconflicteurba.org/media/website/logo-2.webp"><meta property="og:image:width" content="1022"><meta property="og:image:height" content="293"><meta property="og:site_name" content="V Jornades OACU"><meta property="og:description" content="Inscripció Quotes Inscripció anticipada Del XX/XX/2026 al XX/XX/2026 Inscripció normal Del XX/XX/2026 al XX/XX/2026 Estudiantat i persones a l'atur XX,XX€&hellip;"><meta property="og:url" content="https://bcn2026.observatoriconflicteurba.org/inscripcio/"><meta property="og:type" content="article"><link rel="shortcut icon" href="https://bcn2026.observatoriconflicteurba.org/media/website/7ecegw29.jpg" type="image/png"><link rel="stylesheet" href="https://bcn2026.observatoriconflicteurba.org/assets/css/fontawesome-all.min.css?v=85514f933f9e0b82460af63f1a403fa5"><link rel="stylesheet" href="https://bcn2026.observatoriconflicteurba.org/assets/css/style.css?v=214e8f24d3117ecb4adc5367fe9c8903"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://bcn2026.observatoriconflicteurba.org/inscripcio/"},"headline":"Inscripció","datePublished":"2026-02-15T13:44+01:00","dateModified":"2026-02-22T20:08+01:00","image":{"@type":"ImageObject","url":"https://bcn2026.observatoriconflicteurba.org/media/website/logo-2.webp","height":293,"width":1022},"description":"Inscripció Quotes Inscripció anticipada Del XX/XX/2026 al XX/XX/2026 Inscripció normal Del XX/XX/2026 al XX/XX/2026 Estudiantat i persones a l'atur XX,XX€&hellip;","author":{"@type":"Person","name":"OACU","url":"https://bcn2026.observatoriconflicteurba.org/authors/oacu/"},"publisher":{"@type":"Organization","name":"OACU","logo":{"@type":"ImageObject","url":"https://bcn2026.observatoriconflicteurba.org/media/website/logo-2.webp","height":293,"width":1022}}}</script><noscript><style>img[loading] {
                     opacity: 1;
-                }</style></noscript><style>.fi{fill:none;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle}</style></head><body class="is-preload page-template"><div id="page-loader"><div class="spinner"></div></div><script>// Wait for the whole page to finish loading
+                }</style></noscript><script>(async function () {
+
+  const response = await fetch("https://bcn2026.observatoriconflicteurba.org/lang-map.json");
+  const routes = await response.json();
+
+  const currentPath = window.location.pathname.replace(/\/$/, "");
+
+  let pageKey = null;
+
+  // trobar la pàgina actual dins el JSON
+  for (const key in routes) {
+    for (const lang in routes[key]) {
+      const path = routes[key][lang].replace(/\/$/, "");
+      if (path === currentPath) {
+        pageKey = key;
+        break;
+      }
+    }
+    if (pageKey) break;
+  }
+
+  if (!pageKey) return;
+
+  const base = window.location.origin;
+
+  Object.entries(routes[pageKey]).forEach(([lang, path]) => {
+    const link = document.createElement("link");
+    link.rel = "alternate";
+    link.hreflang = lang === "cat" ? "ca" : lang;
+    link.href = base + path;
+    document.head.appendChild(link);
+  });
+
+  // x-default (català per defecte)
+  if (routes[pageKey]["cat"]) {
+    const defaultLink = document.createElement("link");
+    defaultLink.rel = "alternate";
+    defaultLink.hreflang = "x-default";
+    defaultLink.href = base + routes[pageKey]["cat"];
+    document.head.appendChild(defaultLink);
+  }
+
+})();</script><style>.fi{fill:none;stroke-linecap:round;stroke-linejoin:round;vertical-align:middle}</style></head><body class="is-preload page-template"><div id="page-loader"><div class="spinner"></div></div><script>// Wait for the whole page to finish loading
   window.addEventListener('load', function() {
     const loader = document.getElementById('page-loader');
     loader.classList.add('hidden');   // fade out

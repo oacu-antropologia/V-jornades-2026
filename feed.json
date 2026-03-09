@@ -14,8 +14,8 @@
             "id": "https://bcn2026.observatoriconflicteurba.org/announcement-test/",
             "url": "https://bcn2026.observatoriconflicteurba.org/announcement-test/",
             "title": "Announcement test",
-            "summary": "Announcement test",
-            "content_html": "<p>Announcement test</p>",
+            "summary": "Announcement test Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate eros purus. Proin sed blandit neque. Vestibulum imperdiet,&hellip;",
+            "content_html": "<h1>Announcement test</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate eros purus. Proin sed blandit neque. Vestibulum imperdiet, erat at tempor interdum, ligula est pretium nibh, eget pharetra metus ipsum in sem. Aliquam ullamcorper faucibus leo, egestas ullamcorper turpis vehicula quis. Etiam quis scelerisque odio, eu condimentum sem. Duis pharetra eu purus eu consectetur. Donec ullamcorper, elit eget eleifend interdum, lectus lacus fermentum ipsum, nec dapibus enim tortor vel sapien. Curabitur tincidunt massa vulputate consequat commodo. Suspendisse potenti.</p>\n<p>Donec nec tempus metus, non gravida sem. Duis cursus iaculis felis a sodales. Donec blandit velit vehicula diam vulputate sagittis. Maecenas vestibulum tellus nisl, vitae aliquet nibh aliquam vel. Mauris convallis suscipit pellentesque. Sed vel diam ac lectus condimentum tempor. Sed ac sagittis nisl, sit amet auctor metus. Vestibulum vehicula orci vitae ex fermentum, ac mattis ipsum varius. Suspendisse nec elit risus. Ut semper fermentum tellus, non dignissim lorem tristique et. Duis euismod lobortis odio, vel bibendum urna tincidunt in. Etiam lorem quam, volutpat non hendrerit quis, feugiat vel sapien. Aliquam eu euismod nulla. Ut accumsan nibh ac tempor luctus.</p>\n<p>Phasellus nulla mi, pretium vel tristique bibendum, pulvinar non dolor. Cras quis nisl nulla. Cras ultricies tortor cursus, sodales massa at, facilisis erat. Donec sagittis ac nunc et pretium. Sed consequat rhoncus lorem, a interdum eros ornare eget. Quisque quis lacus a tortor egestas sagittis scelerisque quis enim. Morbi ac fringilla est. Donec iaculis pellentesque dapibus.</p>\n<p>Integer venenatis dui ac pellentesque fringilla. Integer eget ligula tellus. Maecenas in augue vel erat pellentesque bibendum. In quis nunc velit. Vivamus ultricies lacus id nunc sodales dignissim. Quisque venenatis at tellus ac facilisis. In porta cursus leo cursus tincidunt. Suspendisse eget neque dignissim, ultricies sapien eget, ornare lorem. Duis bibendum magna quis lorem lobortis porta. Cras ut lacus in mi posuere viverra vel ac elit. Vivamus ipsum tellus, ornare ac massa at, consectetur aliquet ipsum. Ut quis tellus sit amet purus ullamcorper pretium. Cras gravida nunc quam, non mattis arcu egestas eget. Sed iaculis augue non massa sollicitudin, sagittis tristique dolor congue. Nulla facilisi.</p>\n<p>Nullam vitae tellus metus. In efficitur, nulla ac efficitur dapibus, sapien justo dapibus dolor, at aliquam magna justo vitae elit. Pellentesque pellentesque dignissim tincidunt. Curabitur ut interdum neque, at viverra lacus. Praesent enim ipsum, mollis ut odio ut, semper feugiat lectus. Cras vitae ex hendrerit, molestie magna sit amet, vulputate ipsum. Nunc vel iaculis nulla.</p>",
             "image": "https://bcn2026.observatoriconflicteurba.org/media/posts/22/Portada.png",
             "author": {
                 "name": "OACU"
@@ -24,14 +24,14 @@
                    "en"
             ],
             "date_published": "2026-03-09T09:28:47+01:00",
-            "date_modified": "2026-03-09T09:30:49+01:00"
+            "date_modified": "2026-03-09T10:00:58+01:00"
         },
         {
             "id": "https://bcn2026.observatoriconflicteurba.org/circular-de-prueba/",
             "url": "https://bcn2026.observatoriconflicteurba.org/circular-de-prueba/",
             "title": "Circular de prueba",
-            "summary": "Circular de prueba.",
-            "content_html": "<p>Circular de prueba.</p>",
+            "summary": "Circular de prueba Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate eros purus. Proin sed blandit neque. Vestibulum&hellip;",
+            "content_html": "<h1>Circular de prueba</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate eros purus. Proin sed blandit neque. Vestibulum imperdiet, erat at tempor interdum, ligula est pretium nibh, eget pharetra metus ipsum in sem. Aliquam ullamcorper faucibus leo, egestas ullamcorper turpis vehicula quis. Etiam quis scelerisque odio, eu condimentum sem. Duis pharetra eu purus eu consectetur. Donec ullamcorper, elit eget eleifend interdum, lectus lacus fermentum ipsum, nec dapibus enim tortor vel sapien. Curabitur tincidunt massa vulputate consequat commodo. Suspendisse potenti.</p>\n<p>Donec nec tempus metus, non gravida sem. Duis cursus iaculis felis a sodales. Donec blandit velit vehicula diam vulputate sagittis. Maecenas vestibulum tellus nisl, vitae aliquet nibh aliquam vel. Mauris convallis suscipit pellentesque. Sed vel diam ac lectus condimentum tempor. Sed ac sagittis nisl, sit amet auctor metus. Vestibulum vehicula orci vitae ex fermentum, ac mattis ipsum varius. Suspendisse nec elit risus. Ut semper fermentum tellus, non dignissim lorem tristique et. Duis euismod lobortis odio, vel bibendum urna tincidunt in. Etiam lorem quam, volutpat non hendrerit quis, feugiat vel sapien. Aliquam eu euismod nulla. Ut accumsan nibh ac tempor luctus.</p>\n<p>Phasellus nulla mi, pretium vel tristique bibendum, pulvinar non dolor. Cras quis nisl nulla. Cras ultricies tortor cursus, sodales massa at, facilisis erat. Donec sagittis ac nunc et pretium. Sed consequat rhoncus lorem, a interdum eros ornare eget. Quisque quis lacus a tortor egestas sagittis scelerisque quis enim. Morbi ac fringilla est. Donec iaculis pellentesque dapibus.</p>\n<p>Integer venenatis dui ac pellentesque fringilla. Integer eget ligula tellus. Maecenas in augue vel erat pellentesque bibendum. In quis nunc velit. Vivamus ultricies lacus id nunc sodales dignissim. Quisque venenatis at tellus ac facilisis. In porta cursus leo cursus tincidunt. Suspendisse eget neque dignissim, ultricies sapien eget, ornare lorem. Duis bibendum magna quis lorem lobortis porta. Cras ut lacus in mi posuere viverra vel ac elit. Vivamus ipsum tellus, ornare ac massa at, consectetur aliquet ipsum. Ut quis tellus sit amet purus ullamcorper pretium. Cras gravida nunc quam, non mattis arcu egestas eget. Sed iaculis augue non massa sollicitudin, sagittis tristique dolor congue. Nulla facilisi.</p>\n<p>Nullam vitae tellus metus. In efficitur, nulla ac efficitur dapibus, sapien justo dapibus dolor, at aliquam magna justo vitae elit. Pellentesque pellentesque dignissim tincidunt. Curabitur ut interdum neque, at viverra lacus. Praesent enim ipsum, mollis ut odio ut, semper feugiat lectus. Cras vitae ex hendrerit, molestie magna sit amet, vulputate ipsum. Nunc vel iaculis nulla.</p>",
             "image": "https://bcn2026.observatoriconflicteurba.org/media/posts/21/Portada.png",
             "author": {
                 "name": "OACU"
@@ -40,14 +40,14 @@
                    "es"
             ],
             "date_published": "2026-03-09T09:25:58+01:00",
-            "date_modified": "2026-03-09T09:30:37+01:00"
+            "date_modified": "2026-03-09T10:01:06+01:00"
         },
         {
             "id": "https://bcn2026.observatoriconflicteurba.org/circular-prova/",
             "url": "https://bcn2026.observatoriconflicteurba.org/circular-prova/",
             "title": "Circular prova",
-            "summary": "Informacions vàries",
-            "content_html": "<p>Informacions vàries</p>",
+            "summary": "Circular de prova Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate eros purus. Proin sed blandit neque. Vestibulum&hellip;",
+            "content_html": "<h1>Circular de prova</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vulputate eros purus. Proin sed blandit neque. Vestibulum imperdiet, erat at tempor interdum, ligula est pretium nibh, eget pharetra metus ipsum in sem. Aliquam ullamcorper faucibus leo, egestas ullamcorper turpis vehicula quis. Etiam quis scelerisque odio, eu condimentum sem. Duis pharetra eu purus eu consectetur. Donec ullamcorper, elit eget eleifend interdum, lectus lacus fermentum ipsum, nec dapibus enim tortor vel sapien. Curabitur tincidunt massa vulputate consequat commodo. Suspendisse potenti.</p>\n<p>Donec nec tempus metus, non gravida sem. Duis cursus iaculis felis a sodales. Donec blandit velit vehicula diam vulputate sagittis. Maecenas vestibulum tellus nisl, vitae aliquet nibh aliquam vel. Mauris convallis suscipit pellentesque. Sed vel diam ac lectus condimentum tempor. Sed ac sagittis nisl, sit amet auctor metus. Vestibulum vehicula orci vitae ex fermentum, ac mattis ipsum varius. Suspendisse nec elit risus. Ut semper fermentum tellus, non dignissim lorem tristique et. Duis euismod lobortis odio, vel bibendum urna tincidunt in. Etiam lorem quam, volutpat non hendrerit quis, feugiat vel sapien. Aliquam eu euismod nulla. Ut accumsan nibh ac tempor luctus.</p>\n<p>Phasellus nulla mi, pretium vel tristique bibendum, pulvinar non dolor. Cras quis nisl nulla. Cras ultricies tortor cursus, sodales massa at, facilisis erat. Donec sagittis ac nunc et pretium. Sed consequat rhoncus lorem, a interdum eros ornare eget. Quisque quis lacus a tortor egestas sagittis scelerisque quis enim. Morbi ac fringilla est. Donec iaculis pellentesque dapibus.</p>\n<p>Integer venenatis dui ac pellentesque fringilla. Integer eget ligula tellus. Maecenas in augue vel erat pellentesque bibendum. In quis nunc velit. Vivamus ultricies lacus id nunc sodales dignissim. Quisque venenatis at tellus ac facilisis. In porta cursus leo cursus tincidunt. Suspendisse eget neque dignissim, ultricies sapien eget, ornare lorem. Duis bibendum magna quis lorem lobortis porta. Cras ut lacus in mi posuere viverra vel ac elit. Vivamus ipsum tellus, ornare ac massa at, consectetur aliquet ipsum. Ut quis tellus sit amet purus ullamcorper pretium. Cras gravida nunc quam, non mattis arcu egestas eget. Sed iaculis augue non massa sollicitudin, sagittis tristique dolor congue. Nulla facilisi.</p>\n<p>Nullam vitae tellus metus. In efficitur, nulla ac efficitur dapibus, sapien justo dapibus dolor, at aliquam magna justo vitae elit. Pellentesque pellentesque dignissim tincidunt. Curabitur ut interdum neque, at viverra lacus. Praesent enim ipsum, mollis ut odio ut, semper feugiat lectus. Cras vitae ex hendrerit, molestie magna sit amet, vulputate ipsum. Nunc vel iaculis nulla.</p>",
             "image": "https://bcn2026.observatoriconflicteurba.org/media/posts/2/Portada.png",
             "author": {
                 "name": "OACU"
@@ -56,7 +56,7 @@
                    "cat"
             ],
             "date_published": "2026-02-15T12:45:47+01:00",
-            "date_modified": "2026-03-09T09:25:29+01:00"
+            "date_modified": "2026-03-09T10:01:17+01:00"
         }
     ]
 }

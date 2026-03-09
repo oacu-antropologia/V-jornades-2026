@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>V Jornades OACU</title>
+    <link href="https://bcn2026.observatoriconflicteurba.org/feed.xml" rel="self" />
+    <link href="https://bcn2026.observatoriconflicteurba.org" />
+    <updated>2026-02-15T14:22:28+01:00</updated>
+    <author>
+        <name>OACU</name>
+    </author>
+    <id>https://bcn2026.observatoriconflicteurba.org</id>
+
+    <entry>
+        <title>Circular prova</title>
+        <author>
+            <name>OACU</name>
+        </author>
+        <link href="https://bcn2026.observatoriconflicteurba.org/circular-prova/"/>
+        <id>https://bcn2026.observatoriconflicteurba.org/circular-prova/</id>
+        <media:content url="https://bcn2026.observatoriconflicteurba.org/media/posts/2/Portada.png" medium="image" />
+            <category term="es"/>
+            <category term="en"/>
+            <category term="cat"/>
+
+        <updated>2026-02-15T12:45:47+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://bcn2026.observatoriconflicteurba.org/media/posts/2/Portada.png" alt="" />
+                    Informacions vàries
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://bcn2026.observatoriconflicteurba.org/media/posts/2/Portada.png" class="type:primaryImage" alt="" /></p>
+                <p>Informacions vàries</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

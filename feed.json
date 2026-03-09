@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "V Jornades OACU",
+    "description": "",
+    "home_page_url": "https://bcn2026.observatoriconflicteurba.org",
+    "feed_url": "https://bcn2026.observatoriconflicteurba.org/feed.json",
+    "user_comment": "",
+    "icon": "https://bcn2026.observatoriconflicteurba.org/media/website/logo-2.webp",
+    "author": {
+        "name": "OACU"
+    },
+    "items": [
+        {
+            "id": "https://bcn2026.observatoriconflicteurba.org/circular-prova/",
+            "url": "https://bcn2026.observatoriconflicteurba.org/circular-prova/",
+            "title": "Circular prova",
+            "summary": "Informacions vàries",
+            "content_html": "<p>Informacions vàries</p>",
+            "image": "https://bcn2026.observatoriconflicteurba.org/media/posts/2/Portada.png",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "es",
+                   "en",
+                   "cat"
+            ],
+            "date_published": "2026-02-15T12:45:47+01:00",
+            "date_modified": "2026-02-15T14:22:28+01:00"
+        }
+    ]
+}

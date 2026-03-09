@@ -1,0 +1,37 @@
+{
+  "home": {
+    "en": "/home",
+    "cat": "/",
+    "es": "/inicio"
+  },
+  "programa": {
+    "en": "/program",
+    "cat": "/programa",
+    "es": "/programa-es"
+  },
+  "comite": {
+    "en": "/committee",
+    "cat": "/comite",
+    "es": "/comite-es"
+  },
+  "propostes": {
+    "en": "/proposals",
+    "cat": "/propostes",
+    "es": "/propuestas"
+  },
+  "inscripcio": {
+    "en": "/registration",
+    "cat": "/inscripcio",
+    "es": "/inscripcion"
+  },
+  "seu": {
+    "en": "/venue",
+    "cat": "/seu",
+    "es": "/sede"
+  },
+  "tags": { 
+    "en": "/tags/en/",
+    "cat": "/tags/cat/",
+    "es": "/tags/es/"
+  }
+}

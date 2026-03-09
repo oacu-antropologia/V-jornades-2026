@@ -3,7 +3,7 @@
     <title>V Jornades OACU</title>
     <link href="https://bcn2026.observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://bcn2026.observatoriconflicteurba.org" />
-    <updated>2026-03-09T09:28:47+01:00</updated>
+    <updated>2026-03-09T09:30:49+01:00</updated>
     <author>
         <name>OACU</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://bcn2026.observatoriconflicteurba.org/announcement-test/"/>
         <id>https://bcn2026.observatoriconflicteurba.org/announcement-test/</id>
+        <media:content url="https://bcn2026.observatoriconflicteurba.org/media/posts/22/Portada.png" medium="image" />
             <category term="en"/>
 
         <updated>2026-03-09T09:28:47+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://bcn2026.observatoriconflicteurba.org/media/posts/22/Portada.png" alt="" />
                     Announcement test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://bcn2026.observatoriconflicteurba.org/media/posts/22/Portada.png" class="type:primaryImage" alt="" /></p>
                 <p>Announcement test</p>
             ]]>
         </content>
@@ -37,16 +40,19 @@
         </author>
         <link href="https://bcn2026.observatoriconflicteurba.org/circular-de-prueba/"/>
         <id>https://bcn2026.observatoriconflicteurba.org/circular-de-prueba/</id>
+        <media:content url="https://bcn2026.observatoriconflicteurba.org/media/posts/21/Portada.png" medium="image" />
             <category term="es"/>
 
         <updated>2026-03-09T09:25:58+01:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://bcn2026.observatoriconflicteurba.org/media/posts/21/Portada.png" alt="" />
                     Circular de prueba.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://bcn2026.observatoriconflicteurba.org/media/posts/21/Portada.png" class="type:primaryImage" alt="" /></p>
                 <p>Circular de prueba.</p>
             ]]>
         </content>

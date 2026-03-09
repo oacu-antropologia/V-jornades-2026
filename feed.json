@@ -16,6 +16,7 @@
             "title": "Announcement test",
             "summary": "Announcement test",
             "content_html": "<p>Announcement test</p>",
+            "image": "https://bcn2026.observatoriconflicteurba.org/media/posts/22/Portada.png",
             "author": {
                 "name": "OACU"
             },
@@ -23,7 +24,7 @@
                    "en"
             ],
             "date_published": "2026-03-09T09:28:47+01:00",
-            "date_modified": "2026-03-09T09:28:47+01:00"
+            "date_modified": "2026-03-09T09:30:49+01:00"
         },
         {
             "id": "https://bcn2026.observatoriconflicteurba.org/circular-de-prueba/",
@@ -31,6 +32,7 @@
             "title": "Circular de prueba",
             "summary": "Circular de prueba.",
             "content_html": "<p>Circular de prueba.</p>",
+            "image": "https://bcn2026.observatoriconflicteurba.org/media/posts/21/Portada.png",
             "author": {
                 "name": "OACU"
             },
@@ -38,7 +40,7 @@
                    "es"
             ],
             "date_published": "2026-03-09T09:25:58+01:00",
-            "date_modified": "2026-03-09T09:25:58+01:00"
+            "date_modified": "2026-03-09T09:30:37+01:00"
         },
         {
             "id": "https://bcn2026.observatoriconflicteurba.org/circular-prova/",

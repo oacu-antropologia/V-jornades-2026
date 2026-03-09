@@ -33,5 +33,10 @@
     "en": "/tags/en/",
     "cat": "/tags/cat/",
     "es": "/tags/es/"
+  },
+  "circularprova": { 
+    "en": "/announcement-test/",
+    "cat": "/circular-prova/",
+    "es": "/circular-de-prueba/"
   }
 }

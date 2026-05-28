@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow:
+Sitemap: https://bcn2026.observatoriconflicteurba.org/sitemap.xml
